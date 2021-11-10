@@ -15,7 +15,9 @@ public class JavaLab {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("new branch");        
+        System.out.println("new branch");  
+        int k = -9534534;
+        System.out.print(k);
     }
     
 }
