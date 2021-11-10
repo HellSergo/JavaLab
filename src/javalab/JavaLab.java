@@ -18,7 +18,8 @@ public class JavaLab {
         System.out.println("new branch");  
         int k = -9534534;
         System.out.print(k);
-        System.out.println("Лох - это судьба. Запомни, друг мой");  
+        System.out.println("Лох - это судьба. Запомни, друг мой");
+        System.out.println("Нормальное напиши");
     }
     
 }
